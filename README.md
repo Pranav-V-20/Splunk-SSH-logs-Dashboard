@@ -123,6 +123,7 @@ source="ssh_logs.json" host="LinuxServer" sourcetype="_json" event_type="Multipl
 | stats count by Country
 | geom geo_countries featureIdField="Country"
 ```
+---
 ## 📊 Final Output
 
 By completing all tasks, you will have a fully functional Splunk dashboard that:
