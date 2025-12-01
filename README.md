@@ -1,6 +1,7 @@
 # 🛡️ Splunk SSH Authentication Monitoring Dashboard
 
 A step-by-step project to build an interactive Splunk dashboard for monitoring SSH authentication activity, detecting failed login spikes, and visualizing brute-force attacks with geo-location.
+
 ---
 ## 📌 Objective
 
